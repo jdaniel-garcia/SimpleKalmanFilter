@@ -13,6 +13,6 @@
   },
   "exclude": [
   ],
-  "frameworks": "esp-idf",
+  "frameworks": "*",
   "platforms": "*"
 }
